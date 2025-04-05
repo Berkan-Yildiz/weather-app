@@ -22,4 +22,4 @@ Bu proje, **Ionic Framework** ve **Vue.js** kullanılarak geliştirilmiş basit 
 ![Ana Sayfa](images/main.png)
 ![Ana Sayfa](images/2.png)
 
-# weather-app
+
